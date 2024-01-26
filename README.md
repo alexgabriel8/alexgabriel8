@@ -39,11 +39,14 @@
     
   </div>
 
-<h2 align="center">GitHub</h2>
+<h2 align="center">Estatísticas</h2>
   <br>
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexgabriel8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="alexgabriel8 GitHub contributions"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgabriel8&layout=compact&langs_count=6&theme=tokyonight" alt="alexgabriel8 top languages"/>
     <br>
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=alexgabriel8&theme=radical" alt="alexgabriel8 GitHub streak" width="450"/>
+    <br>
+    <br>
+    <img align="center" src="https://www.codewars.com/users/alexgabriel8/badges/large"/>
   </div>
