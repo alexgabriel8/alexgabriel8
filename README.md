@@ -48,5 +48,5 @@
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=alexgabriel8&theme=radical" alt="alexgabriel8 GitHub streak" width="450"/>
     <br>
     <br>
-    <img align="center" src="https://www.codewars.com/users/alexgabriel8/badges/large"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Atroyo&theme=radical"/>
   </div>
